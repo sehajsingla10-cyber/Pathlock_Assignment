@@ -1,0 +1,14 @@
+# === Node / Frontend ===
+task_manager_frontend/node_modules/
+task_manager_frontend/dist/
+
+
+# === .NET / Backend ===
+task_manager_api/bin/
+task_manager_api/obj/
+task_manager_api/.vs/
+
+# === OS specific ===
+Thumbs.db
+ehthumbs.db
+Desktop.ini
