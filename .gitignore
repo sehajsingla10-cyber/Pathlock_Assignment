@@ -4,9 +4,9 @@ task_manager_frontend/dist/
 
 
 # === .NET / Backend ===
-task_manager_api/bin/
-task_manager_api/obj/
-task_manager_api/.vs/
+Task_manager_api/bin/
+Task_manager_api/obj/
+Task_manager_api/.vs/
 
 # === OS specific ===
 Thumbs.db
